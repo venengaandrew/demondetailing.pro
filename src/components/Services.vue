@@ -74,70 +74,70 @@ export default {
     selection: 1,
     services: [
       {
-        title: "Software Development",
+        title: "Service 1",
         image:
           "https://cdn-employer-wp.arc.dev/wp-content/uploads/2022/04/software-development-costs-1128x635.jpg",
         package_type: "Premium Package",
       },
       {
-        title: "Software Architecture",
+        title: "Service 2",
         image:
           "https://assets-global.website-files.com/5b6901669b93d7837e36dc4c/615e16ddc6a79521482a22ea_applicationarchitecturefeaturedimage-1.png",
         package_type: "Basic Package",
       },
       {
-        title: "Software Solutions",
+        title: "Service 3",
         image:
           "https://www.bdsol.co.za/wp-content/uploads/2018/05/Bytes-June-wk3-SoftwareSolutions.jpeg",
         package_type: "Basic Package",
       },
       {
-        title: "Web Development",
+        title: "Service 4",
         image: "https://www.adlibweb.com/wp-content/uploads/2021/12/image1.jpg",
         package_type: "Premium Package",
       },
       {
-        title: "Web Design",
+        title: "Service 5",
         image:
           "https://img.freepik.com/free-vector/cartoon-web-design-landing-page_52683-70880.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1699833600&semt=ais",
         package_type: "standard Package",
       },
       {
-        title: "Digital Marketing",
+        title: "Service 6",
         image: "https://oyostudio.com.au/wp-content/uploads/2023/03/s2-2.jpg",
         package_type: "Basic Package",
       },
       {
-        title: "Android Development",
+        title: "Service 7",
         image:
           "https://5.imimg.com/data5/FH/UC/MY-9120378/android-app-development-company-500x500.png",
         package_type: "Basic Package",
       },
       {
-        title: "SEO Service",
+        title: "Service 8",
         image:
           "https://www.seoworks.com/wp-content/uploads/2021/01/seo-services-process-outline.jpg",
         package_type: "Basic Package",
       },
       {
-        title: "Video Adds",
+        title: "Service 9",
         image: "https://www.gethow.org/wp-content/uploads/2020/07/video.jpg",
         package_type: "Basic Package",
       },
       {
-        title: "Domain and Hosting",
+        title: "Service 10",
         image:
           "https://www.elegantthemes.com/blog/wp-content/uploads/2020/01/difference-between-domain-and-web-hosting-featured-image.jpg",
         package_type: "Basic Package",
       },
       {
-        title: "Networking and IOT",
+        title: "Service 11",
         image:
           "https://i.insider.com/5644a9691123143c008b4765?width=1000&format=jpeg&auto=webp",
         package_type: "Basic Package",
       },
       {
-        title: "Other Online Services",
+        title: "Service 12",
         image: "https://m.hkjc.com/images/service/service-img-chatbot.png",
         package_type: "Basic Package",
       },

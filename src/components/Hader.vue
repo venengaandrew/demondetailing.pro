@@ -19,7 +19,7 @@
               :width="150"
               aspect-ratio="16/9"
               cover
-              src="https://i.postimg.cc/FRdHpghP/MIN-IT-PNG.png"
+              src="https://avatars.githubusercontent.com/u/23341488?v=4"
             ></v-img>
           </router-link>
         </v-toolbar-title>

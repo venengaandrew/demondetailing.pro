@@ -12,7 +12,7 @@
         {{ link }}
       </v-btn>
       <v-col class="text-center mt-4" cols="12">
-        {{ new Date().getFullYear() }} — <strong>MIN IT</strong>
+        {{ new Date().getFullYear() }} — <strong>Demon Detailing</strong> Copyright: Andrew Venenga
       </v-col>
     </v-row>
   </v-footer>
@@ -24,8 +24,8 @@ const links = [
   "About",
   "Services",
   "Portfolio",
-  "Clients",
-  "Team",
+  // "Clients",
+  // "Team",
   "Contact",
 ];
 </script>
@@ -38,7 +38,7 @@ export default {
       "About",
       "Services",
       "Portfolio",
-      "Clients",
+      // "Clients",
       "Team",
       "Contact",
     ],

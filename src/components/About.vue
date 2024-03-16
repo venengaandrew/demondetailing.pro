@@ -3,27 +3,19 @@
     <v-row>
       <v-col cols="12">
         <h2 class="minit-title">
-          <b> ALL ABOUT <span class="minit-color">MIN IT</span> </b>
+          <b>ABOUT <span class="minit-color">DEMON DETAILING</span> </b>
         </h2>
       </v-col>
       <v-col cols="12">
         <v-sheet elevation="2" class="p-text" color="white">
-          <span class="min-it">MIN IT</span> is a dynamic software solutions
-          company where you can take a services like
-          <b class="min-it">
-            SOFTWARE DEVELOPMENT,SOFTWARE ARCHITECTURE, WEB DESIGN, WEB
-            DEVELOPMENT,APP DEVELOPMENT,GRAPHIC DESIGN, DIGITAL
-            MARKETING,SEO,CLOUD SERVICE,DOMAIN AND HOSTING,VIDEO ADDS,ONLINE
-            PROMOTIONS with all kind of online services</b
-          >
-          and freelancer based in Bangladesh and all over the world.
+          At Demon Detailing, we're your dedicated partners in vehicle care. With meticulous attention to detail and a commitment to excellence, we offer a comprehensive range of services designed to elevate your driving experience. Our skilled professionals are passionate about cars and committed to delivering exceptional results tailored to your specific needs.
         </v-sheet>
       </v-col>
       <v-col cols="12" md="12" sm="12" xl="6">
         <!-- https://i.postimg.cc/63mckTY3/MIN-IT-ILLUSTRATION-WHITE.jpg -->
 
         <v-img
-          :src="`https://i.postimg.cc/nzYqnrFZ/MIN-IT-ILLUSTRATION-BLACK.jpg`"
+          :src="`https://avatars.githubusercontent.com/u/23341488?v=4`"
           :lazy-src="`https://picsum.photos/10/6?image=${5 * 5 + 10}`"
           cover
           elevation="6"
@@ -52,31 +44,10 @@
       </v-col>
       <v-col cols="12" md="12" sm="12" xl="6">
         <v-sheet elevation="2" class="p-text mt-1" color="white">
-          we have been building noteworthy software and websites for more than
-          6+ years. For this time we had done all types of projects, Like
-          <span class="min-it">
-            University Management System(2),Tour Management System(5),
-            E-commerce Management System(10), Personal Website(30+), Healthcare
-            Website (10+),Shop and Beauty Website, Corporate Website etc.</span
-          >
-          we help convert a vision and an idea into meaningful and useful
-          products. Having a sharp eye for product evolution helps me prioritize
-          tasks, iterate fast and deliver faster. If you're interested in
-          working with us, don't hesitate to hire contact with us.
+        
         </v-sheet>
         <v-alert class="p-text mt-5" elevation="2" color="white">
-          <b>Programming Languages and other tools that we are use in past</b
-          ><br />
-          Rest API ,PHP Laravel , Vue.js , Nuxt.js , Ajax , JavaScript ,
-          Bootstrap 5 , HTML 5 , CSS 3 , JQuery , Github , Gitlab , cPanel , VPS
-          Server ,Micro-Service,Docker,Postmant, MySQL ,Photoshop cc ,
-          illustrator cc ,Figma
-        </v-alert>
-      </v-col>
-      <v-col cols="12" md="12" sm="12" xl="12">
-        <v-alert class="p-text" elevation="2" color="white">
-          <b>Payment Gateway </b><br />
-          Paypal,Stripe, SSL Ecommerce, Bkash ,Nogod and more.
+          
         </v-alert>
       </v-col>
     </v-row>

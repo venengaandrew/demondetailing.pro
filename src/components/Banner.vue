@@ -7,17 +7,15 @@
             <v-col md="8" cols="12">
               <h1 class="title">
                 WELCOME TO<br />
-                <span class="min-it">M</span>IN
-                <span class="min-it">I</span>NFORMATION
-                <span class="min-it">T</span>ECHNOLOGY
+                DEMON
+                DETAILING
               </h1>
               <p class="p-text">
-                "MIN IT" is a dynamic software company that specializes in
-                creating innovative solutions to simplify and enhance your IT
-                experience. From streamlining processes to developing
-                cutting-edge applications, MIN IT is dedicated to minimizing
-                complexities and maximizing efficiency in the world of
-                technology.
+                "Demon Detailing" is a premier vehicle cleaning and detailing service based in [insert small town name].
+                Our mission is to provide meticulous care and attention to every vehicle that comes through our doors, ensuring they leave looking as good as new.
+                With a passion for perfection and a commitment to customer satisfaction,
+                Demon Detailing offers a range of services tailored to meet the unique needs of each vehicle, from thorough exterior washes to comprehensive interior detailing. 
+                Experience the difference with Demon Detailing – where quality and precision meet to bring out the best in your vehicle.
               </p>
               <div class="d-flex ms-5 mt-8 mb-15">
                 <v-row>
@@ -28,7 +26,7 @@
                       rounded="xl"
                       color="#000"
                     >
-                      Start with Min it</v-btn
+                      Start with Demon Detaling</v-btn
                     >
                   </v-col>
                   <v-col md="4" sm="4" xl="3">

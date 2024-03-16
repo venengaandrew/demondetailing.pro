@@ -23,8 +23,8 @@ export default {
     About,
     Services,
     Portfolio,
-    Teams,
-    Clients,
+    // Teams,
+    // Clients,
     Contact,
   },
   data() {
